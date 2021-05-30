@@ -8,3 +8,5 @@ So this is a SudoCoin Client/Tool to help you mine, created entirely in Python!
 This should allow for more accessibiltiy and ease when mining SudoCoin, and can be configured in multiple ways!
 
 Created By TimeCipher, Enjoy!
+
+Ps, Its Python3.
