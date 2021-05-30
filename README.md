@@ -10,3 +10,5 @@ This should allow for more accessibiltiy and ease when mining SudoCoin, and can 
 Created By TimeCipher, Enjoy!
 
 Ps, Its Python3.
+
+And before use run 'pip install websockets'
